@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [rajika.pro](rajika.pro)
+- 👨‍💻 All of my projects are available at [rajika.pro](https://www.rajika.pro)
 
-- 📝 I regularly write articles on [rajika.pro](rajika.pro)
+- 📝 I regularly write articles on [rajika.pro](https://www.rajika.pro)
 
 - 📫 How to reach me **lprajika@gmail.com**
 
