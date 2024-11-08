@@ -3,14 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajika97" alt="rajika97" /></a> </p>
 
-- 🔭 I’m currently working on [Newscraper](https://github.com/rajika97/newscraper-lk.git)
-
-- 🌱 I’m currently learning **AWS**
-
-- 👨‍💻 All of my projects are available at [rajika.pro](https://www.rajika.pro)
-
-- 📝 I regularly write articles on [rajika.pro](https://www.rajika.pro)
-
 - 📫 How to reach me **lprajika@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
